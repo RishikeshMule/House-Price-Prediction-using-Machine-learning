@@ -8,9 +8,10 @@ A house value is simply more than location and square footage. We have to consid
 We are going to take advantage of all of the feature variables available to use and use it to analyze and predict house prices.
 
 Features Engineering:
-Location	
-BHK	
-Furnishing	
-Sq.ft	
-Old(years)	
-Floor	Price
+Location,	
+BHK,	
+Furnishing,	
+Sq.ft	,
+Old(years),	
+Floor,	
+Price(to be predicted).
